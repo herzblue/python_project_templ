@@ -2,7 +2,7 @@
 name = "python-project"
 version = "0.1.0"
 description = ""
-authors = ["박용규 (TPCG) <ygpark@tpcg.co.kr>"]
+authors = ["박용규 (TPCG) <herzblue@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
