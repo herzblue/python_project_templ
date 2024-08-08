@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "python-project"
+version = "0.1.0"
+description = ""
+authors = ["박용규 (TPCG) <ygpark@tpcg.co.kr>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.11.09"
+ipykernel = "^6.29.5"
+black = "^24.4.2"
+fastapi = "^0.111.0"
+pytest = "^8.3.1"
+pandas = "^2.2.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
